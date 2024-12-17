@@ -1,0 +1,10 @@
+# ninja log v5
+21	1926	7561274169217106	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d5ed726af5490b4b
+0	2024	7561274170264293	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	260fcd2a13131ed8
+31	2068	7561274170733055	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a51bf89413f1c902
+26	2226	7561274172302305	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2dad9d8f860d825c
+16	2236	7561274172476957	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5671ca545167a25f
+5	2344	7561274173700987	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4e5673d83c8c777f
+12	2532	7561274175627941	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	98f16728e8d96c7b
+8	2657	7561274176877235	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b62be34959eee3a3
+2658	2938	7561274179555241	D:/AB/UnityProjects/JutsuGame_Meta/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x1b1371/obj/arm64-v8a/libgame.so	d717bb2b333bdb62
